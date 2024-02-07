@@ -1,0 +1,7 @@
+geckodriver.log
+captions/*.txt
+captions/*.json
+env
+.vscode
+captions.log
+python_modules
